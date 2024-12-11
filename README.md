@@ -12,10 +12,11 @@ Main Changes:
 - Slightly faster rate limit
 - Ability to exclude tag categories
 - The option to include aliases (UI support varies)
+- supports pulling tags from e621 (optional)
 
-About the uploaded list:
+About the uploaded lists:
 
-I uploaded my own list generated using the script for convenience. The minimum threshold was 50, '-' formatting and aliases were enabled. I may or may not update this list when I feel enough time has passed, probably not until a model with newer data is released.
+I've uploaded premade versions of every all-category list with the minimum threshold set to 50, and aliases enabled. Aliases are only currently supported for danbooru because e621 has way too many and some overlap with real danbooru tags. There's some half working commented out code that will also pull aliases from e621 which I might support for e621-only lists, but for now I don't want to look at any more furry art.
 
 The format is as follows:
 
