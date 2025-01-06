@@ -2,11 +2,11 @@
 [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) 。
 教程：
 1.找到Custom-Scripts的设置选项。
-![2](./图片/2.png)
+![2](./图片存储/2.png)
 2.清除原来的文本并粘贴txt里的内容，然后保存。
-![3](./图片/3.png)
+![3](./图片存储/3.png)
 3.如果成功，你应该会看到以下画面。
-![1](./图片/1.png)
+![1](./图片存储/1.png)
 ---
 /以下是原作者的readme/
 ---
