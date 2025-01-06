@@ -1,4 +1,5 @@
-使用deepseek的api对danbooru的词条进行了汉化，可以在comfyui中使用，需要配合>https://github.com/pythongosssss/ComfyUI-Custom-Scripts的提示词补全一起使用。
+使用deepseek的api对danbooru的词条进行了汉化，可以在comfyui中使用，需要配合
+[ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) 一起使用。
 ---
 /以下是原作者的readme/
 ---
