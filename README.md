@@ -1,3 +1,5 @@
+使用deepseek的api对danbooru的词条进行了汉化，可以在comfyui中使用，需要配合https://github.com/pythongosssss/ComfyUI-Custom-Scripts的提示词补全一起使用。
+/以下是原作者的readme/
 I was looking for an updated danbooru tag list but I couldn't find a recent one that was in the correct format, so I made my own.
 
 Based on this original script: https://gist.github.com/bem13/596ec5f341aaaefbabcbf1468d7852d5
